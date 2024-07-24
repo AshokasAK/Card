@@ -29,6 +29,7 @@ import React from 'react'
    export default User 
    
 //  ---------------------------
+//  ---------------------------
 //    Optional -----
 //    User.propTypes = {
 //    name : Proptypes.string,
